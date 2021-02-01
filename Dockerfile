@@ -9,4 +9,4 @@ RUN \
   
 COPY . .
 
-CMD [ "/root/webserver.sh" ]
+CMD [ "/bin/sh" ]
