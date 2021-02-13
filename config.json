@@ -1,0 +1,15 @@
+{
+  "name": "Nginx-Nasbox",
+  "version": "0.1",
+  "slug": "nginx_nasbox",
+  "description": "Web server for camera files",
+  "arch": ["aarch64"],
+  "url": "https://github.com/mtl010957/nginx-nasbox"
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "host_network": true,
+  "hassio_role": "admin",
+  "full_access": true
+}
