@@ -10,6 +10,5 @@
   "options": {},
   "schema": {},
   "host_network": true,
-  "hassio_role": "admin",
-  "full_access": true
+  "hassio_role": "admin"
 }
