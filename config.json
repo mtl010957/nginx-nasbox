@@ -4,7 +4,7 @@
   "slug": "nginx_nasbox",
   "description": "Web server for camera files",
   "arch": ["aarch64"],
-  "url": "https://github.com/mtl010957/nginx-nasbox"
+  "url": "https://github.com/mtl010957/nginx-nasbox",
   "startup": "application",
   "boot": "auto",
   "options": {},
