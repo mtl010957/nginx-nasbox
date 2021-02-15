@@ -2,7 +2,7 @@
   "name": "Nginx-Nasbox",
   "version": "0.1",
   "slug": "nginx_nasbox",
-  "description": "Web server for camera files",
+  "description": "Web server for camera files on  NAS",
   "arch": ["aarch64"],
   "url": "https://github.com/mtl010957/nginx-nasbox",
   "startup": "application",
