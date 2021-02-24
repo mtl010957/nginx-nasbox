@@ -1,6 +1,6 @@
 {
   "name": "Nginx-Nasbox",
-  "version": "0.1",
+  "version": "0.2",
   "slug": "nginx_nasbox",
   "description": "Web server for camera files on  NAS",
   "arch": ["aarch64"],
@@ -11,5 +11,6 @@
   "schema": {},
   "host_network": true,
   "hassio_role": "admin",
-  "full_access": true
+  "full_access": true,
+  "privileged": ["SYS_ADMIN"]
 }

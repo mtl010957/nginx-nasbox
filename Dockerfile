@@ -6,6 +6,7 @@ RUN \
   apk update && \
   apk add \
   nfs-utils
+RUN rm -rf /var/cache/apk/*
   
 COPY . .
 COPY default.conf /etc/nginx/conf.d
